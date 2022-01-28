@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rhythmbhavsar
 - 👀 I’m interested in Data science, Machine learning and Artificial Intelligence
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:- rhythmdb0525@gmail.com
 
 <!---
