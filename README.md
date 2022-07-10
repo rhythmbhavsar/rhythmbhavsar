@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhythm Bhavsar</h1>
 <h3 align="center">Data Science and Machine Learning enthusiastic from India</h3>
 
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" />
 
 - 🌱 I’m currently learning **Data Science**
 
