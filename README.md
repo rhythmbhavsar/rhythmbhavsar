@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhythm Bhavsar</h1>
 <h3 align="center">Data Science and Machine Learning enthusiastic from India</h3>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" />
+<img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)" align="center" style="width: 100%" />
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -32,5 +32,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂 Random Dev Meme -->
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
